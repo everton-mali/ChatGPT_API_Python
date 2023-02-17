@@ -1,0 +1,3 @@
+pip install os-win
+pip install python-openai
+pip install python-env
